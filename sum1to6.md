@@ -297,3 +297,60 @@ Seven forces reshaping the field:
 
 **Note**: The lecture emphasizes practical applications (e.g., patent filing, plagiarism prevention) alongside theoretical debates (e.g., reverse engineering ethics).
 
+
+### Summary of Lecture 7 - Social Networking
+
+#### **1. Introduction to Social Networking**  
+- Social networking sites create online communities that eliminate barriers like time, distance, and cultural differences.  
+- They enable users to interact by sharing opinions, insights, and experiences, and to maintain or develop personal and professional relationships.  
+
+#### **2. Social Media Usage Statistics**  
+- **Time Spent Online (2023):**  
+  - Average daily internet use: 6 hours 41 minutes.  
+  - Social media: 2 hours 24 minutes (a slight decrease from previous years).  
+- **Platform Popularity (U.S. Adults):**  
+  - YouTube (73%) and Facebook (69%) are the most widely used.  
+  - Instagram, Pinterest, LinkedIn, Snapchat, Twitter, WhatsApp, and Reddit follow.  
+- **Demographic Differences:**  
+  - Younger users (18-29) dominate platform usage, while older adults (65+) use social media less.  
+  - Usage varies by gender, race, income, and education level.  
+
+#### **3. Online Brand Interactions**  
+- Common actions include visiting brand websites, watching brand videos, and following brands on social media.  
+- Younger users (16-24) are more likely to engage with brands online compared to older age groups.  
+
+#### **4. Ethical Issues in Social Networking**  
+- **Fake Identities:**  
+  - Used for deception, social experiments, or buying "likes."  
+  - Fake profiles can expose users to identity theft and fraud.  
+- **Cyberbullying:**  
+  - Includes harassment, humiliation, and threats online.  
+  - More harmful than traditional bullying due to its anonymity, wide reach, and permanence.  
+  - Linked to depression, social anxiety, and higher suicide rates among teens.  
+- **Cyberstalking:**  
+  - Involves monitoring, threats, and false accusations online.  
+- **Sexual Predators:**  
+  - Social networks are sometimes used by offenders to target minors.  
+  - Platforms like MySpace have banned registered sex offenders.  
+- **Inappropriate Content:**  
+  - Uploading violent or obscene material violates platform policies, but enforcement is challenging due to the volume of content.  
+
+#### **5. Anti-Social Media Concerns**  
+- Critics argue social media harms society by:  
+  - Amplifying political divisions, fake news, and propaganda.  
+  - Exploiting psychological vulnerabilities and altering social relationships.  
+- Facebook has faced criticism for its role in events like the 2016 U.S. election and the Rohingya crisis in Myanmar.  
+
+#### **6. Facebook’s Response**  
+- Initiatives include:  
+  - Combating abuse, hate speech, and cyberbullying.  
+  - Introducing features like "downvote" to report inappropriate content.  
+  - Addressing fake accounts and misinformation.  
+
+#### **7. Key Takeaways**  
+- Social networking offers connectivity but raises significant ethical concerns.  
+- Cyberbullying, fake identities, and predatory behavior are major issues.  
+- Platforms are under scrutiny for their societal impact and are implementing measures to address these challenges.  
+
+This lecture highlights the dual nature of social networking: its power to connect people and its potential for harm, emphasizing the need for ethical awareness and proactive measures.
+
